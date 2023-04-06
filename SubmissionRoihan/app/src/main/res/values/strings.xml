@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">SubmissionRoihan</string>
+
+    <string name="wisata">Nama Tempat Wisata</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="judul_desktripsi">Deskripsi Wisata</string>
+    <string name="rate">4/5</string>
+    <!--    about page-->
+    <string name="about">About Me</string>
+    <string name="nama_saya">Muhammad Sohiburroihan Akbar</string>
+    <string name="email_saya">bitcoiner.banjarmasin@gmail.com</string>
+
+    <string-array name="tempat_wisata">
+        <item>Bukit Batu</item>
+        <item>Pasar Terapung</item>
+        <item>Pulau Bekantan</item>
+        <item>Pantai Batakan</item>
+        <item>Pulau Datu</item>
+        <item>Samber Gelap</item>
+        <item>Goa Liang Tapah</item>
+        <item>Taman Labirin</item>
+        <item>Air Panas Tanuhi</item>
+        <item>Menara Pandang</item>
+    </string-array>
+
+    <string-array name="lokasi_wisata">
+        <item>Riam Kanan, Banjarbaru</item>
+        <item>Lok Baintan, Kab. Banjar</item>
+        <item>Riam Kanan, Banjarbaru</item>
+        <item>Pelaihari Kota</item>
+        <item>Batakan, Pelaihari</item>
+        <item>KotaBaru</item>
+        <item>Tanjung, Tabalong</item>
+        <item>Pelaihari Kota</item>
+        <item>Kandangan, HSS</item>
+        <item>Banjarmasin Kota</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/riamkanan</item>
+        <item>@drawable/terapung</item>
+        <item>@drawable/bekantan</item>
+        <item>@drawable/pulaudatu</item>
+        <item>@drawable/batakan</item>
+        <item>@drawable/sambergelap</item>
+        <item>@drawable/liangtapah</item>
+        <item>@drawable/labirin</item>
+        <item>@drawable/tanuhi</item>
+        <item>@drawable/siring</item>
+    </integer-array>
+
+    <string-array name="biaya_masuk">
+        <item>Rp 10.000,- / orang</item>
+        <item>Rp 15.000,- / orang</item>
+        <item>Rp 7.000,- / orang</item>
+        <item>Rp 5.000,- / orang</item>
+        <item>Rp 5.000,- / orang</item>
+        <item>Rp 7.000,- / orang</item>
+        <item>Rp 20.000,- / orang</item>
+        <item>Rp 10.000,- / orang</item>
+        <item>Rp 25.000,- / orang</item>
+        <item>Rp 25.000,- / orang</item>
+    </string-array>
+
+    <string-array name="jam_buka">
+        <item>24 jam</item>
+        <item>08.00 &#8211; 17.00</item>
+        <item>08.00 &#8211; 17.00</item>
+        <item>08.00 &#8211; 17.00</item>
+        <item>08.00 &#8211; 21.00</item>
+        <item>08.00 &#8211; 23.00</item>
+        <item>24 jam</item>
+        <item>08.00 &#8211; 18.30</item>
+        <item>24 jam</item>
+        <item>24 jam</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Tempat wisata Bukit Batu ini berada di Dusun Sungai Luar, Desa Tiwingan Baru, Kecamatan Aranio in berjarak sekitar 30 Km dari Kota Martapura. Untuk menuju tempat wisata baru ini, kita dapat melalui Jalan Ir. Pangeran Muhammad Noor Banjarbaru ke arah Riam Kanan Kecamatan Karang Intan. Setelah menempuh perjalanan sepanjang 18 Km tepatnya di Desa Awang Bangkal, kita kemudian menyeberang Sungai Riam Kanan melalui jembatan dan masuk ke jalan tol Banjarbaru-Batulicin yang saat ini masih dibangun. Dari titik awal di jembatan masuk jalan tol Banjarbaru-Batulicin, kita kemudian menempuh lagi perjalanan sepanjang 9 Km melalui jalan saat ini sebagian besar masih belum beraspal dan naik-turun gunung. Kemudian setelah sampai di pertigaan, kita belok kanan mengikuti petunjuk arah masuk ke jalan yang mulai sebagian di aspal sekitar 3 Km menuju lokasi Wisata Bukit Batu.Setelah sampai di lokasi, kita akan disambut dengan pemandangan indah perbukitan savana dipercantik Waduk Riam Kanan yang memiliki luas lebih kurang 8.000 Hektar.</item>
+        <item>Pasar Terapung Lok Baintan atau Pasar Terapung Sungai Martapura adalah sebuah pasar terapung tradisional yang berlokasi di desa Sungai Pinang (Lok Baintan), kecamatan Sungai Tabuk, Banjar.[1] Secara umum, Pasar Terapung Lok Baintan tak beda dengan Pasar Terapung di muara Sungai Kuin/Sungai Barito. Keduanya sama-sama pasar tradisional di atas perahu atau dalam bahasa Banjar disebut jukung yang menjual beragam dagangan, seperti hasil produksi pertanian/perkebunan dan berlangsung tidak terlalu lama, paling lama sekitar tiga hingga empat jam.[2] Pasar terapung ini sudah ada sejak zaman Kesultanan Banjar.[3]Di sepanjang pesisir aliran Sungai Martapura, terlihat konvoi perahu menuju lokasi pasar terapung. Perahu ini milik pedagang dan petani dari berbagai anak Sungai Martapura, seperti Sungai Lenge, Sungai Bakung, Sungai Paku Alam, Sungai Saka Bunut, Sungai Madang, Sungai Tanifah, dan Sungai Lok Baintan, dimana mereka akan memasarkan hasil kebun mereka di sana.[4]</item>
+        <item>Waduk Riam Kanan adalah salah satu waduk terbesar di Kalimantan Selatan yang ada di Aranio, Aranio, Banjar. Waduk buatan yang dalam pembangunannya memakan waktu selama 10 tahun ini dibangun dengan membendung 8 sungai yang bersumber dari Pegunungan Meratus, serta ada 9 desa yang kemudian ditenggelamkan di area seluas 9.730 hektar tersebut. Tujuan utama dibangunnya Waduk Riam Kanan yang diresmikan oleh Presiden Suharto pada tahun 1973 ini adalah untuk membangun Pembangkit Listrik Tenaga Air yang akan digunakan untuk menerangi wilayah Banjarmasin dan sekitarnya.[1]</item>
+        <item>Pantai Batakan merupakan obyek wisata bahari yang terpadu dengan panorama alam pegunungan pantai yang terletak di kecamatan Panyipatan, Kabupaten Tanah Laut, sekitar 125 kilometer arah timur dari Kota Banjarmasin (Ibukota Provinsi Kalimantan Selatan). pantai-batakan-2 asinamuramultiplyUntuk mencapai lokasi Pantai Batakan, dari Kota Banjarmasin relatif mudah karena kondisi jalannya cukup baik ,berkelak-kelok dan turun-naik serta menyajikan pemandangan alam yang indah berupa barisan perbukitan yang menghijau, hamparan persawahan yang menguning, serta perkampungan nelayan yang berada di tepi pantai. Sebelah timurnya terdapat perbukitan pinus yang menjadi bagian dari Pegunungan Meratus. Di pantai ini pengunjung dapat mengelilingi pantai sambil menggunakan kuda sewaan, bersantai di bawah pohon cemara sambil menikmati keindahan pantai, atau menyaksikan panorama alam terutama saat matahari akan terbenam (sunset). Di lepas pantai Batakan dapat kita jumpai Pulau Datu yang merupakan obyek wisata ziarah makam.Berkunjung ke Pulau Datu yang letaknya tidak berapa jauh di depan Pantai Batakan. Di pulau ini terdapat sebuah obyek wisata religius yaitu makam Datu Pamulutan. Fasilitas khas tempat rekreasi Pantai Batakan, seperti kamar mandi untuk bilas, rumah ibadah (masjid), panggung hiburan, cottage, restourant, penginapan, playground, hingga areal parkir kendaraan yang cukup luas.</item>
+        <item>Pulau Datu adalah sebuah pulau kecil yang berada Pantai Batakan, Kecamatan Panyipatan Kabupaten Tanah Laut. Dinamakan Pulau Datu karena di Pulau tersebut terdapat makam seorang datu (Sunan/Penyebar agama islam) yang dikenal dengan sebutan Datu Pamulutan.Dari informasi yang didapat, gelar Datu Pamulutan diberikan karena kegemarannya menangkap burung dengan pulut, yaitu semacam alat untuk menjebak unggas dengan menggunakan getah dari pohon para.Nama asli dari Datu Pamulutan adalah Sultan Hamidinsyah yang berasal dari Batang Banyu Mangapan Martapura. Beliau mempunyai seorang adik yang bernama Sultan Ribuansyah yang juga seorang pendakwah Islam. Bedanya, jika Datu Pamulutan fokus untuk kawasan timur Kalimantan Selatan sedangkan adiknya lebih ke kawasan barat Kalimantan Selatan.Datu Pamulutan mempunyai seorang murid setia yang selalu mengiringi perjalanannya, namanya H. Syamsudin yang mempunyai nama asli Bamasara. Syamsudin, menurut informasi adalah warga penduduk asli Tanjung Dewa.</item>
+        <item>Pulau Samber Gelap, begitulah sebutannya, tidak ada yang mengetahui persis mengapa nama tersebut telah melekat menjadi bentuk perwakilan dari keindahan pulau ini. Pulau Samber Gelap memang sebuah pulau yang terhitung kecil dan tidak terlalu dikenal, namun keindahannya bisa membuat anda tidak bisa berpaling dari pulau satu ini. Air laut yang tenang dan jernih, alam sekitar yang begitu tenang dan angin sepoi-sepoi membuat lokasi ini pas menjadi tujuan wisata. Disini juga terdapat mercusuar yang bisa digunakan pengunjung untuk melihat pemandangan dari atas. Karena ditempat ini memiliki tempat penangkaran penyu, jadi Anda yang berkunjung ke tempat ini bisa melihat aktifitas penyu bertelur ketika malam hari. Selain itu, Anda pun dapat melakukan aktifitas snorkeling dan diving untuk melihat keindahan bawah laut Pulau Samber Gelap. Seluruh peralatan menyelam bisa Anda sewa di tempat ini.</item>
+        <item>Goa Liang Tapah terletak di Desa Gargata, Kecamatan Jaro, Kabupaten Tabalong, Kalimantan Selatan. Goa ini berjarak sekitar 1,5 jam dari pusat Kota Tanjung, ibukota Kabupaten Tabalong.
+
+Akses menuju ke sini bisa lo tempuh dengan menggunakan kendaraan roda dua maupun roda empat. Kemudian, lo perlu melakukan trekking sekitar 300 meter hingga sampai ke mulut goa.
+
+Menjadi salah satu dari 67 geosite di Geopark Meratus, Goa Liang Tapah menawarkan keindahan yang tidak kalah dengan goa-goa lain di Tanah Air. Goa sepanjang 220 meter ini memiliki ruangan-ruangan yang cukup besar. Stalaktit yang menggantung di langit-langit dan stalagmit yang menyembul dari lantai menjadikan goa ini semakin eksotis.
+
+Goa Liang Tapah juga menjadi rumah bagi sekelompok kelelawar dan burung sriti (sejenis walet). Lo bisa menemukan sarang-sarang mereka yang ada di dinding-dinding goa yang rendah.</item>
+        <item>    Taman Labirin adalah salah satu wisata buatan berupa taman yang terletak di Tambang Ulang, Tanah Laut, Kalimantan Selatan. Taman Labirin merupakan area rekreasi dengan konsep ranch/ agrowisata dimana taman labirin ini menjadi salah satu daya Tarik untuk memikat para penunjung. Daya tarik tempat wisata ini adalah sensasi memasuki lorong lorong labirin dengan memanfaatkan tanaman hijau yang memiliki ketinggian sekitar 2 meter, tujuannya mencari jalan keluar. Taman labirin dilengkapi menara pandang yang berada ditengah labirin, dari atas Menara kita bisa melihat labirin secara jelas dari berbagai sudut dan pegunungan dikejauhan. dan kebersihannya pun juga terjaga. Pengunjung juga bisa menikmati danau buatan yang terdapat sepeda bebek air, kalian bisa menikmati keindahan danau buatan tersebut sambil menaiki sepeda bebek air untuk menyusuri danau buatan tersebut,dan terdapat pondokan untuk bersantai santai, kalian juga dapat melihat kuda secara langsung.</item>
+        <item>Kabupaten Hulu Sungai Selatan (HSS) memang terkenal dengan wisata alamnya yang masih begitu alami dan menakjubkan. Apabila Anda merapat ke daerah dataran tinggi Pegunungan Meratus yang ada di Loksado, Anda bisa menemukan sebuah tempat pemandian dengan panorama yang indah khas pegunungan dan udara yang sejuk, yakni Pemandian Air Panas Tanuhi. Lokasi wisata ini cocok untuk dikunjungi bersama orang-orang terdekat.
+Pemandian Air Panas Tanuhi berlokasi di Desa Hulu Banyu, Kecamatan Loksado, Kabupaten Hulu Sungai Selatan (HSS), Kalimantan Selatan. Tempat wisata keluarga ini dikelola oleh Dinas Kebudayaan Pemuda dan Olahraga Kabupaten Hulu Sungai Selatan dan kerap dijadikan destinasi wisata untuk berlibur oleh para warga HSS, terutama ketika akhir pekan atau musim liburan panjang. Jika Anda sedang berada di Kabupaten Hulu Sungai Selatan, mampir ke Pemandian Air Panas Tanuhi mungkin bisa menjadi pilihan yang tepat.</item>
+        <item>Menara Pandang merupakan objek wisata terbaru di Banjarmasin, yang mana diresmikan oleh Pak Muhidin selaku Wali Kota Banjarmasin pada tahun 2014 silam. Destinasi wisata yang terletak di pinggir Sungai Martapura ini, menyuguhkan pemandangan lanskap ibukota Kalimantan Selatan dan sekitarnya yang luar biasa serta jarang ditemukan di tempat lainnya.
+
+Meski termasuk ke dalam destinasi baru, namun semenjak diresmikan banyak sekali pengunjung yang bertandang karena ingin tahu apa saja daya tarik yang disuguhkannya. Bahkan bukan hanya berasal dari dalam negeri saja, tidak sedikit pula terdapat wisatawan mancanegara yang berkunjung untuk menikmati keindahan kota serta nuansa khas yang ditawarkannya.
+
+Di bagian lantai atas Menara Pandang, Anda bisa menyaksikan secara langsung sekeliling Kota Banjarmasin, hantaran Sungai Martapura, kubah Masjid Raya Sabilal Muhtadin, dan panorama lainnya yang sangat indah nan epik. Apalagi ketika cuaca sedang cerah, pemandangan yang disaksikan akan jauh lebih cantik dan sangat cocok dijadikan latar belakang foto yang epik.</item>
+    </string-array>
+</resources>
